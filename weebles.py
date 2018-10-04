@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python
 
 from lxml import html
 import csv,os,json
